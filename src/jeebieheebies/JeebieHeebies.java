@@ -15,7 +15,9 @@ public class JeebieHeebies {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("stuff and/or things");
+        String temp = "";
+        temp = "woooooooooooooooo!";
+        System.out.println(temp);
     }
     
 }
